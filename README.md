@@ -29,3 +29,11 @@ tweets, and remove words with length less than 2.
 
 4. Visualizing data: You need to present the daily number of tweets for each 
 keyword as well as the daily number of users. 
+
+Some Screenshots
+
+![Screenshot (107)](https://user-images.githubusercontent.com/22133371/125142926-fc9a4280-e0e6-11eb-84e7-8d5d1a1252fa.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/22133371/125142929-fc9a4280-e0e6-11eb-9425-17b1c4c09ed8.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/22133371/125142930-fc9a4280-e0e6-11eb-8551-7df353de97fb.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/22133371/125142931-fd32d900-e0e6-11eb-9ad8-11892d5bae6f.png)
+
